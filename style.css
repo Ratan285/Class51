@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+
+.subHeadder{
+    border-style:dashed solid;
+}
+.header
+{background-color: #ff5e00;
+display: flex;
+justify-content: space-between;
+}
+.insideHeader{text-align: center;
+    display:block;
+}
+.insiderHeader{text-align: center;
+}
+
+
+
